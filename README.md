@@ -46,7 +46,7 @@ Thar sem eg er i fjarnaminu og staddur a hotelherbergi i Finnlandi vard eg ad vi
 
 Setti upp Ubuntu 12.04 lts a MacBook pro velina mina. Byrjadi ad reyna ad keyra upp af DVD (sem var maelt med a ubuntu sidunni i stad USB kubbs fyrir mac) en tha komst eg ekki a thradlaust net. Hefdi getad lagad thad med thvi ad tengjast ethernet neti og saekja einhvern driver en finnska hotelherbergid skartadi ekki ethernet snuru. Eg setti thvi upp virtualbox og thad gekk an nokkurra vandraeda.
 
-![Startup mynd](home/ubuntu/INTOmarkdown/ubuntu.png "Ubuntu og mac saman a godri stundu")
+![Startup mynd](https://dl.dropboxusercontent.com/u/7178831/ubuntu.png "Ubuntu og Mac saman a godri stundu")
 
 ## 2. vim && git
 
@@ -63,3 +63,9 @@ Forkunin gekk tidindalitid fyrir sig. Fylgdi leidbeningunum og einstaka hjalp fr
 * NeoOffice (based on Open Office). Released under the GNU General Public License (GPL). [Source code instructions.](http://www.neooffice.org/neojava/en/build.php)
 * Gimp. GNU General Public Licence. [Source code.](http://www.gimp.org/source/#source)
 * Processing. GPL. Export Libraries are released under LGPL license.[Source code.](https://github.com/processing/processing)
+
+
+## 5. Git (annar hluti)
+
+Markdown skjalid var i flesta stadi einfalt ad vinna med fyrir utan ad setja inn myndina. Thar vantadi betri skyringar enda greinilega margir lent i vandraedum med thad. Almennt var thetta verkefni ansi timafrekt midad vid litid vaegi!
+
